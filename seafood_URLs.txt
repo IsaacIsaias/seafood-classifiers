@@ -1,0 +1,58 @@
+--------    CÓDIGO EN LA CLI DE AZURE    --------
+
+curl https://southcentralus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/5e1f4dc2-9c11-460b-9c85-abc65d3c7b00/classify/iterations/Model%201/url \
+-H "Prediction-Key: ffb8adb5ced84212aa13c3ce8a476623" \
+-H "Content-Type: application/json" \
+-d "{'url' : 'x'}" \
+| jq '.'
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Links:
+- Black Sea Sprat:
+	https://nas.er.usgs.gov/XIMAGESERVERX/2012/20120502124522.jpg
+	https://tr-2.ru/files/styles/f/public/fotofish/tyulka_chernomorsko-kaspiyskaya_0.jpg?itok=Ko7OiyJc
+	https://media.istockphoto.com/photos/sprat-fish-picture-id695448662?s=612x612
+
+- Gilt-Head Bream:
+	https://cdn.shopify.com/s/files/1/1259/5433/products/Gilt_Head_Bream_pic_small.jpg?v=1462957478
+	https://st3.depositphotos.com/1062035/18030/i/1600/depositphotos_180301274-stock-photo-grilled-gilt-head-bream-fish.jpg
+	https://www.tomscatch.com/fishing-species/detail-gilt-head-bream-fish-35.png
+
+- Hourse Mackerel:
+	https://media-cdn.tripadvisor.com/media/photo-s/19/fd/6c/ea/horse-mackerel-sushi.jpg
+	https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trachurus_trachurus_DSC02845.JPG/1280px-Trachurus_trachurus_DSC02845.JPG?1627802149493
+	https://image.made-in-china.com/2f0j00BRMUEKySnpcq/Frozen-Horse-Mackerel-Jack-Mackerel-Carapao.jpg
+	https://previews.123rf.com/images/nutria3000/nutria30001908/nutria3000190800210/128725826-grilled-horse-mackerel.jpg
+
+- Red Mullet:
+	https://static.wikia.nocookie.net/newclubpenguin/images/a/a4/Mullet.png/revision/latest?cb=20200805055921
+	https://assets.bonappetit.com/photos/5ace7318d63c0e2f9cf49177/1:1/w_1920,c_limit/grilled-red-mullet-with-charred-onions-and-pine-nuts.jpg
+	https://www.bbcgoodfoodme.com/assets/legacy/recipe/recipe-image/2019/09/baked-anchovy-stuffed-red-mullet-with-fennel.jpg
+
+- Red Sea Bream:
+	https://sc04.alicdn.com/kf/UTB8NyPjC5DEXKJk43Oqq6Az3XXaf.jpg
+	https://c7.alamy.com/comp/GDDC9F/fresh-fishes-red-sea-bream-pagellus-bogaraveo-and-grey-sea-bream-pondyliosoma-GDDC9F.jpg
+	https://santiagomontenegro.com/wp-content/uploads/2018/07/Besugo.jpg
+	https://images.thefishsite.com/fish/articles/asia/red-sea-bream-japan.PNG?profile=article-float
+
+- Sea Bass:
+	https://realfood.tesco.com/media/images/RFO-Hero-636x418-SeaBass-376cc0ce-8170-4b3b-a603-1575bdf1a57a-0-636x418.jpg
+	https://cdn5.creativecirclemedia.com/warwick/original/20180725-131653-sports.53%20pound%20striped%20bass%20-%20Photo%20B.jpg
+	https://hips.hearstapps.com/prima.cdnds.net/assets/15/24/1433811760-pp-roastedsea-bass1000sq.jpg?resize=980:*
+
+- Shrimp:
+	https://healthyfitnessmeals.com/wp-content/uploads/2020/05/instagram-In-Stream_Square___Shrimp-spaghetti-3.jpg
+	https://images.theconversation.com/files/89034/original/image-20150720-14732-995q11.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+	https://www.afarmgirlsdabbles.com/wp-content/uploads/2016/06/Grilled-Margarita-Shrimp-Kebabs_AFarmgirlsDabbles_AFD-1-2-768x1152.jpg	
+
+- Striped Red Mullet:
+	https://www.marlin.ac.uk/assets/images/marlin/species/web/o_mulsur4.jpg
+	https://media.sciencephoto.com/image/c0389963/800wm/C0389963-Fluorescent_striped_red_mullet.jpg
+	https://media.istockphoto.com/photos/closeup-of-freshly-caught-striped-red-mullet-or-mullus-surmuletus-on-picture-id876078200?s=612x612
+
+- Trout:
+	https://realfood.tesco.com/media/images/RFO-1400X919PX-Stuffed-Trout-0b73c1f9-4525-4103-97fd-da6128765bf3-0-1400x919.jpg
+	https://media.nature.com/w700/magazine-assets/d41586-021-01846-7/d41586-021-01846-7_19331536.jpg
+	https://www.fws.gov/southeast/images/hero/eastern-brook-trout.jpg
