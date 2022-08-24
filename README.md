@@ -1,4 +1,4 @@
-# Seafood Classifiers by means of AI-based Algorithms
+# Seafood Classifiers by means of AI-based Algorithms ([Spanish](spa/README.md))
 
 This repository contains:
 
@@ -7,11 +7,11 @@ This repository contains:
     1. A Python-code implementation using CNN's, the Keras API and TensorFlow
     2. A No-code classifier using the Azure Custom Vision API
 - A [text file](seafood_URLs.txt) that has:
-    - 29 URLs of images that can be used to test the No-code classifier
+    - 29 URLs of images that can be used to test the classifiers
     - The code that can be used in the Azure CLI for testing
 - My [Internship report](TSU-InternshipReport.pdf) (Total: 159 pages)
 
-All these for my **Associate's Degree Internship report** in Mechatronics-Automation at the Universidad Tecnológica de San Juan del Río (UTSJR).
+> Files of my **Associate's Degree Internship Report** in Mechatronics-Automation at the Universidad Tecnológica de San Juan del Río (UTSJR).
 
 ## Dataset Citation
 
